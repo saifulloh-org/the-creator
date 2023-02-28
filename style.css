@@ -72,4 +72,11 @@ header {
 }
 .section-one-ul{
   margin-top: 15px;
+  line-height: 26px;
+  list-style-type: none;
+}
+li span {
+  color: lightgreen;
+  font-size: 18px;
+  margin-right: 5px;
 }
