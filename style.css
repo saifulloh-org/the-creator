@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+/* Header Part */
+/* Background Image */
+header {
+  background-image: url(images/Header\ High\ Res.jpg);
+  background-position: left center;
+  background-repeat: no-repeat;
+  height: 800px;
+}
+
+/* Text */
+h1 {
+  margin: 250px 100px;
+  font-size: 60px;
+  float: right;
+  text-align: right;
+  line-height: 80px;
+}
