@@ -39,7 +39,7 @@ header {
 }
 
 /* Section One */
-.section-one {
+.section-one-img {
   display: flex;
   background-image: url(images/quran.jpg);
   background-repeat: no-repeat;
@@ -51,7 +51,25 @@ header {
   font-weight: 700;
   font-size: 40px;
   line-height: 47px;
+  margin: 300px 0 0 0;
+}
+.section-one-right{
+  background-color: rgba(245, 246, 248, 0.8);
+  text-align: left;
+  padding: 50px 10px;
+  width: 100%;
 }
 .section-one-paragraph{
+  margin-top: 20px;
   line-height: 26px;
+}
+.section-one-txt{
+ margin: 300px 0 0 300px;
+}
+.bismillah{
+  text-decoration: underline;
+  font-weight: 800;
+}
+.section-one-ul{
+  margin-top: 15px;
 }
