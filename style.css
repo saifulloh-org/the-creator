@@ -39,14 +39,19 @@ header {
 }
 
 /* Section One */
-.ikhlas {
+.section-one {
   display: flex;
   background-image: url(images/quran.jpg);
   background-repeat: no-repeat;
-  width: 100%;
-  height: 100%;
-
 }
 .mosque {
   width: 900px;
+}
+.section-one-heading {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+}
+.section-one-paragraph{
+  line-height: 26px;
 }
