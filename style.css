@@ -2,20 +2,38 @@
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
-/* Header Part */
-/* Background Image */
+
+/* Header Background Image */
 header {
   background-image: url(images/Header\ High\ Res.jpg);
-  background-position: left center;
-  background-repeat: no-repeat;
   height: 800px;
+  background-repeat: no-repeat;
 }
 
-/* Text */
-h1 {
-  margin: 250px 100px;
-  font-size: 60px;
+/* Header Background Text */
+.div-header {
   float: right;
   text-align: right;
+  margin: 200px 50px;
+}
+.h-header {
+  color: #151414;
+  font-size: 60px;
   line-height: 80px;
+  margin-bottom: 15px;
+}
+.p-header {
+  font-size: 20px;
+  line-height: 30px;
+  color: #444343;
+  margin-bottom: 50px;
+}
+.b-header {
+  background-color: #f15b22;
+  width: 200px;
+  height: 64px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #ffffff;
+  border-radius: 7px;
 }
