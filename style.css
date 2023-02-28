@@ -14,21 +14,21 @@ header {
 .div-header {
   float: right;
   text-align: right;
-  margin: 200px 50px;
+  margin: 200px 50px 0 50px;
 }
-.h-header {
+.header-heading {
   color: #151414;
   font-size: 60px;
   line-height: 80px;
   margin-bottom: 15px;
 }
-.p-header {
+.header-paragraph {
   font-size: 20px;
   line-height: 30px;
   color: #444343;
   margin-bottom: 50px;
 }
-.b-header {
+.header-batton {
   background-color: #f15b22;
   width: 200px;
   height: 64px;
@@ -36,4 +36,17 @@ header {
   font-size: 20px;
   color: #ffffff;
   border-radius: 7px;
+}
+
+/* Section One */
+.ikhlas {
+  display: flex;
+  background-image: url(images/quran.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+
+}
+.mosque {
+  width: 900px;
 }
