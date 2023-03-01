@@ -1,0 +1,42 @@
+
+/* Class = "NSTextFieldCell"; title = "iPad Pro"; ObjectID = "588-n7-Qf4"; */
+"588-n7-Qf4.title" = "iPad Pro";
+
+/* Class = "NSTextFieldCell"; title = "There are no wireless devices on the same network. Please make sure they are both connected to Wi-Fi and the network does not block discovery. E-mail air@duetdisplay.com if you have any issues."; ObjectID = "6iB-2k-2mF"; */
+"6iB-2k-2mF.title" = "同一网络上没有找到无线设备。请确保设备均已连接到Wi-Fi，并且网络不会屏蔽设备发现。如有问题，请发送电子邮件至air@duetdisplay.com。";
+
+/* Class = "NSButtonCell"; title = "Adjust Display Settings"; ObjectID = "Erk-sN-c1q"; */
+"Erk-sN-c1q.title" = "Adjust Display Settings";
+
+/* Class = "NSTextFieldCell"; title = "Hint: If you can't see your device, sign in with your Duet account on that device and connect from there."; ObjectID = "JD8-fl-hwH"; */
+"JD8-fl-hwH.title" = "提示：如果看不到您的设备，请使用该设备上的Duet账户登录并从该处进行连接。";
+
+/* Class = "NSButtonCell"; title = "Switch To Wired Automatically"; ObjectID = "NYi-5r-tS9"; */
+"NYi-5r-tS9.title" = "Switch To Wired Automatically";
+
+/* Class = "NSButtonCell"; title = "Sign In For Remote Desktop"; ObjectID = "P27-tc-1cA"; */
+"P27-tc-1cA.title" = "远程桌面登录";
+
+/* Class = "NSTextFieldCell"; title = "Sign in to Duet Air to get better and more secure discoverability for wireless connections through your account as well as the option to enable remote access for your Mac."; ObjectID = "Rri-ab-QBC"; */
+"Rri-ab-QBC.title" = "登录Duet Air，通过您的账户以更好、更安全的方式发现无线连接，并能选择启用PC远程访问。";
+
+/* Class = "NSButtonCell"; title = "Connect to IP Manually"; ObjectID = "RvM-qY-Cs3"; */
+"RvM-qY-Cs3.title" = "手动连接到IP";
+
+/* Class = "NSTextFieldCell"; title = "Discovered Devices"; ObjectID = "Z0Y-Dl-vs2"; */
+"Z0Y-Dl-vs2.title" = "发现的设备";
+
+/* Class = "NSTableColumn"; headerCell.title = "Duet Air - Devices Nearby"; ObjectID = "Zw4-XN-VSF"; */
+"Zw4-XN-VSF.headerCell.title" = "Duet Air - Devices Nearby";
+
+/* Class = "NSButtonCell"; title = "Click to connect wirelessly"; ObjectID = "dEf-5u-j1d"; */
+"dEf-5u-j1d.title" = "点击连接";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gkJ-3B-lD7"; */
+"gkJ-3B-lD7.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Sign In For Remote Desktop"; ObjectID = "s5S-CF-CSu"; */
+"s5S-CF-CSu.title" = "远程桌面登录";
+
+/* Class = "NSTextFieldCell"; title = "If you connect using the lightning cable, it will switch."; ObjectID = "zAV-ce-FOj"; */
+"zAV-ce-FOj.title" = "If you connect using the lightning cable, it will switch.";

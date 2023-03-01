@@ -1,0 +1,42 @@
+
+/* Class = "NSTextFieldCell"; title = "iPad Pro"; ObjectID = "588-n7-Qf4"; */
+"588-n7-Qf4.title" = "iPad Pro";
+
+/* Class = "NSTextFieldCell"; title = "There are no wireless devices on the same network. Please make sure they are both connected to Wi-Fi and the network does not block discovery. E-mail air@duetdisplay.com if you have any issues."; ObjectID = "6iB-2k-2mF"; */
+"6iB-2k-2mF.title" = "There are no wireless devices on the same network. Please make sure they are both connected to Wi-Fi and the network does not block discovery. E-mail air@duetdisplay.com if you have any issues.";
+
+/* Class = "NSButtonCell"; title = "Adjust Display Settings"; ObjectID = "Erk-sN-c1q"; */
+"Erk-sN-c1q.title" = "Adjust Display Settings";
+
+/* Class = "NSTextFieldCell"; title = "Hint: If you can't see your device, sign in with your Duet account on that device and connect from there."; ObjectID = "JD8-fl-hwH"; */
+"JD8-fl-hwH.title" = "Hint: If you can't see your device, sign in with your Duet account on that device and connect from there.";
+
+/* Class = "NSButtonCell"; title = "Switch To Wired Automatically"; ObjectID = "NYi-5r-tS9"; */
+"NYi-5r-tS9.title" = "Switch To Wired Automatically";
+
+/* Class = "NSButtonCell"; title = "Sign In For Remote Desktop"; ObjectID = "P27-tc-1cA"; */
+"P27-tc-1cA.title" = "Sign In For Remote Desktop";
+
+/* Class = "NSTextFieldCell"; title = "Sign in to Duet Air to get better and more secure discoverability for wireless connections through your account as well as the option to enable remote access for your Mac."; ObjectID = "Rri-ab-QBC"; */
+"Rri-ab-QBC.title" = "Sign in to Duet Air to get better and more secure discoverability for wireless connections through your account as well as the option to enable remote access for your Mac.";
+
+/* Class = "NSButtonCell"; title = "Connect to IP Manually"; ObjectID = "RvM-qY-Cs3"; */
+"RvM-qY-Cs3.title" = "Connect to IP Manually";
+
+/* Class = "NSTextFieldCell"; title = "Discovered Devices"; ObjectID = "Z0Y-Dl-vs2"; */
+"Z0Y-Dl-vs2.title" = "Discovered Devices";
+
+/* Class = "NSTableColumn"; headerCell.title = "Duet Air - Devices Nearby"; ObjectID = "Zw4-XN-VSF"; */
+"Zw4-XN-VSF.headerCell.title" = "Duet Air - Devices Nearby";
+
+/* Class = "NSButtonCell"; title = "Click to connect wirelessly"; ObjectID = "dEf-5u-j1d"; */
+"dEf-5u-j1d.title" = "Click to connect wirelessly";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gkJ-3B-lD7"; */
+"gkJ-3B-lD7.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Sign In For Remote Desktop"; ObjectID = "s5S-CF-CSu"; */
+"s5S-CF-CSu.title" = "Sign In For Remote Desktop";
+
+/* Class = "NSTextFieldCell"; title = "If you connect using the lightning cable, it will switch."; ObjectID = "zAV-ce-FOj"; */
+"zAV-ce-FOj.title" = "If you connect using the lightning cable, it will switch.";

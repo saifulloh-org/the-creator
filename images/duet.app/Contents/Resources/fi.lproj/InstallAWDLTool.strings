@@ -1,0 +1,18 @@
+
+/* Class = "NSButtonCell"; title = "Grant Permission"; ObjectID = "0zP-Z0-QNf"; */
+"0zP-Z0-QNf.title" = "Myönnä käyttöoikeus";
+
+/* Class = "NSTextFieldCell"; title = "Optimize Duet Performance"; ObjectID = "9bt-Ai-428"; */
+"9bt-Ai-428.title" = "Optimoi Duetin suorituskyky";
+
+/* Class = "NSTextFieldCell"; title = "Permission successfully granted. Duet can now minimize wireless interference for the best performance. You can disable this setting any time in Duet’s settings."; ObjectID = "F5T-zZ-2Lf"; */
+"F5T-zZ-2Lf.title" = "Käyttöoikeus on myönnetty. Duet voi nyt minimoida langattoman yhteyden häiriöt parasta suorituskykyä varten. Voit poistaa tämän asetuksen käytöstä milloin tahansa Duetin asetuksissa.";
+
+/* Class = "NSTextFieldCell"; title = "We have detected wireless interference from AirDrop, Handoff and AirPlay. To improve performance, we can pause these features while Duet is enabled."; ObjectID = "J4U-0x-C4H"; */
+"J4U-0x-C4H.title" = "Olemme havainneet AirDropin, Handoffin ja AirPlayn aiheuttamia langattoman yhteyden häiriöitä.  Suorituskykyä parantaaksemme voimme tauottaa nämä ominaisuudet sillä aikaa kun Duet on käytössä.";
+
+/* Class = "NSTextFieldCell"; title = "There was an issue authorizing Duet to optimize wireless performance. \nPlease try again or contact \nair@duetdisplay.com for support."; ObjectID = "dM2-Wt-jlR"; */
+"dM2-Wt-jlR.title" = "Duetia ei voitu valtuuttaa langattoman suorituskyvyn optimointiin ongelman vuoksi. \nYritä uudelleen tai pyydä tukea ottamalla yhteyttä: \nair@duetdisplay.com.";
+
+// string that is used dynmically in place of "Grant Permission" button
+"CloseWindow.title" = "Sulje ikkuna";

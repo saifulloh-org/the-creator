@@ -1,0 +1,23 @@
+/* Class = "NSTextFieldCell"; title = "Please click here to login to view and connect to your devices."; ObjectID = "Dba-iq-030"; */
+"Dba-iq-030.title" = "请单击此处登录以查看并连接到您的设备.";
+
+/* Class = "NSTextFieldCell"; title = "No Devices Found"; ObjectID = "EmW-MS-JNb"; */
+"EmW-MS-JNb.title" = "未找到设备";
+
+/* Class = "NSTextFieldCell"; title = "DEVICES"; ObjectID = "Ffd-eF-w2N"; */
+"Ffd-eF-w2N.title" = "设备";
+
+/* Class = "NSTextFieldCell"; title = "OPEN DUET"; ObjectID = "Rwa-LC-Yw5"; */
+"Rwa-LC-Yw5.title" = "打开 DUET";
+
+/* Class = "NSTextFieldCell"; title = "To connect to an iOS or Android device, please open Duet and start the connection from the mobile device."; ObjectID = "jR9-T0-g2X"; */
+"jR9-T0-g2X.title" = "要连接到 iOS 或安卓设备，请打开 Duet 并从移动设备开始连接.";
+
+/* Class = "NSTextFieldCell"; title = "Extend"; ObjectID = "sp0-U0-wQN"; */
+"sp0-U0-wQN.title" = "扩展";
+
+/* Class = "NSTextFieldCell"; title = "Click here to set up wireless and remote connections."; ObjectID = "wo8-3K-Jgj"; */
+"wo8-3K-Jgj.title" = "单击此处设置无线和远程连接.";
+
+/* Class = "NSTextFieldCell"; title = "Mirror"; ObjectID = "zzp-G7-z47"; */
+"zzp-G7-z47.title" = "镜像";

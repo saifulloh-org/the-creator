@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "No Devices Found"; ObjectID = "EmW-MS-JNb"; */
+"EmW-MS-JNb.title" = "발견된 기기 없음";
+
+/* Class = "NSTextFieldCell"; title = "DEVICES"; ObjectID = "Ffd-eF-w2N"; */
+"Ffd-eF-w2N.title" = "기기";
+
+
+/* Class = "NSTextFieldCell"; title = "Please click here to login to view and connect to your devices."; ObjectID = "Dba-iq-030"; */
+"Dba-iq-030.title" = "여기를 클릭해 로그인하여 보거나 기기에 연결하세요.";
+
+/* Class = "NSTextFieldCell"; title = "OPEN DUET"; ObjectID = "Rwa-LC-Yw5"; */
+"Rwa-LC-Yw5.title" = "DUET 열기";
+
+/* Class = "NSTextFieldCell"; title = "To connect to an iOS or Android device, please open Duet and start the connection from the mobile device."; ObjectID = "jR9-T0-g2X"; */
+"jR9-T0-g2X.title" = "iOS 또는 Android 기기에 연결하려면, Duet을 열어 모바일 기기에서 연결해보세요.";
+
+/* Class = "NSTextFieldCell"; title = "Extend"; ObjectID = "sp0-U0-wQN"; */
+"sp0-U0-wQN.title" = "확장";
+
+/* Class = "NSTextFieldCell"; title = "Click here to set up wireless and remote connections."; ObjectID = "wo8-3K-Jgj"; */
+"wo8-3K-Jgj.title" = "여기를 클릭해 무선 또는 원격 연결을 설정하세요.";
+
+/* Class = "NSTextFieldCell"; title = "Mirror"; ObjectID = "zzp-G7-z47"; */
+"zzp-G7-z47.title" = "미러링";

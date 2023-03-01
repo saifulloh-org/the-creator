@@ -1,0 +1,27 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "55P-pg-UP8"; */
+"55P-pg-UP8.title" = "표 보기 셀";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5w1-wE-AjY"; */
+"5w1-wE-AjY.title" = "텍스트 셀";
+
+/* Class = "NSButtonCell"; title = "If your Android device is not connecting, click here."; ObjectID = "6Lp-lz-Ain"; */
+"6Lp-lz-Ain.title" = "Android 기기가 연결되지 않으면, 여기를 클릭하세요.";
+
+/* Class = "NSTextFieldCell"; title = "Have a Chromebook? These devices only support wireless connections - please switch to the Air Tab for instructions."; ObjectID = "6qM-Nd-ZlE"; */
+"6qM-Nd-ZlE.title" = "Chromebook이 있나요? 이 기기들은 무선 연결만 지원합니다. Air 탭으로 전환하여 안내를 확인하세요.";
+
+/* Class = "NSTabViewItem"; label = "usbList"; ObjectID = "Lyr-eX-uuJ"; */
+"Lyr-eX-uuJ.label" = "USB 목록";
+
+/* Class = "NSTableColumn"; headerCell.title = "USB Device Name"; ObjectID = "SD2-cf-nvR"; */
+"SD2-cf-nvR.headerCell.title" = "USB 기기 이름";
+
+/* Class = "NSTextFieldCell"; title = "Make sure your Android device is connected on USB, then select it from the list below."; ObjectID = "WLj-fK-Ith"; */
+"WLj-fK-Ith.title" = "Android 기기가 USB에 연결되었는지 확인 후, 아래 목록에서 선택하세요.";
+
+/* Class = "NSTabViewItem"; label = "Normal"; ObjectID = "lZ1-cg-c9A"; */
+"lZ1-cg-c9A.label" = "보통";
+
+/* Class = "NSButtonCell"; title = "Enable Android USB Support"; ObjectID = "pla-Zf-UDv"; */
+"pla-Zf-UDv.title" = "Android USB 지원 활성화";

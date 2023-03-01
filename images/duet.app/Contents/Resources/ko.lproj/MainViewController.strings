@@ -1,0 +1,45 @@
+
+/* Class = "NSButtonCell"; title = "iOS"; ObjectID = "1Hp-rE-ToC"; */
+"1Hp-rE-ToC.title" = "iOS";
+
+/* Class = "NSButtonCell"; title = "Quit App"; ObjectID = "5bF-Y4-HEB"; */
+"5bF-Y4-HEB.title" = "앱 종료";
+
+/* Class = "NSButtonCell"; title = "Settings"; ObjectID = "82k-CZ-gLV"; */
+"82k-CZ-gLV.title" = "설정";
+
+/* Class = "NSTextFieldCell"; title = "v2.0.0"; ObjectID = "BiG-cE-eV3"; */
+"BiG-cE-eV3.title" = "v2.0.0";
+
+/* Class = "NSButtonCell"; title = "Help Desk"; ObjectID = "C31-wh-2bc"; */
+"C31-wh-2bc.title" = "헬프데스크";
+
+/* Class = "NSButtonCell"; title = "✕"; ObjectID = "Ojg-kG-Vi1"; */
+"Ojg-kG-Vi1.title" = "✕";
+
+/* Class = "NSTextFieldCell"; title = "OTHER"; ObjectID = "R4D-v9-2Bp"; */
+"R4D-v9-2Bp.title" = "기타";
+
+/* Class = "NSButtonCell"; title = "Configuration Issue"; ObjectID = "Ry5-yv-FjX"; */
+"Ry5-yv-FjX.title" = "환경 설정 문제";
+
+/* Class = "NSTextFieldCell"; title = "CONNECT"; ObjectID = "aMt-HV-ef1"; */
+"aMt-HV-ef1.title" = "연결";
+
+/* Class = "NSButtonCell"; title = "Disconnect"; ObjectID = "c1S-jw-3C0"; */
+"c1S-jw-3C0.title" = "연결 해제";
+
+/* Class = "NSButtonCell"; title = "Android"; ObjectID = "ecM-RB-bnq"; */
+"ecM-RB-bnq.title" = "Android";
+
+/* Class = "NSButtonCell"; title = "Profile"; ObjectID = "kmu-2G-UuK"; */
+"kmu-2G-UuK.title" = "프로필";
+
+/* Class = "NSButtonCell"; title = "Desktop"; ObjectID = "kyL-gj-H2b"; */
+"kyL-gj-H2b.title" = "데스크톱";
+
+/* Class = "NSButtonCell"; title = "Settings"; ObjectID = "oAs-6W-oc7"; */
+"oAs-6W-oc7.title" = "설정";
+
+/* Class = "NSButtonCell"; title = "E-Mail Us"; ObjectID = "qz4-U3-Zim"; */
+"qz4-U3-Zim.title" = "이메일 문의하기";

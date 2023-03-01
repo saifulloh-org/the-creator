@@ -1,0 +1,24 @@
+
+/* Class = "NSTextFieldCell"; title = "Please click here to login to view and connect to your devices."; ObjectID = "Dba-iq-030"; */
+"Dba-iq-030.title" = "こちらからログインして、各機器に接続しご覧ください。";
+
+/* Class = "NSTextFieldCell"; title = "No Devices Found"; ObjectID = "EmW-MS-JNb"; */
+"EmW-MS-JNb.title" = "デバイスが見つかりません";
+
+/* Class = "NSTextFieldCell"; title = "DEVICES"; ObjectID = "Ffd-eF-w2N"; */
+"Ffd-eF-w2N.title" = "デバイス";
+
+/* Class = "NSTextFieldCell"; title = "OPEN DUET"; ObjectID = "Rwa-LC-Yw5"; */
+"Rwa-LC-Yw5.title" = "DUETを開く";
+
+/* Class = "NSTextFieldCell"; title = "To connect to an iOS or Android device, please open Duet and start the connection from the mobile device."; ObjectID = "jR9-T0-g2X"; */
+"jR9-T0-g2X.title" = "iOS/Android端末との接続は、Duetを起動し、モバイル端末より接続を開始してください。";
+
+/* Class = "NSTextFieldCell"; title = "Extend"; ObjectID = "sp0-U0-wQN"; */
+"sp0-U0-wQN.title" = "画面拡張";
+
+/* Class = "NSTextFieldCell"; title = "Click here to set up wireless and remote connections."; ObjectID = "wo8-3K-Jgj"; */
+"wo8-3K-Jgj.title" = "ワイヤレス接続、リモート接続の設定はこちらです。";
+
+/* Class = "NSTextFieldCell"; title = "Mirror"; ObjectID = "zzp-G7-z47"; */
+"zzp-G7-z47.title" = "画面複製";

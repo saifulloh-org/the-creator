@@ -1,0 +1,15 @@
+
+/* Class = "NSButtonCell"; title = "CANCEL"; ObjectID = "CpM-vJ-eZv"; */
+"CpM-vJ-eZv.title" = "취소";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "OZV-pN-bl6"; */
+"OZV-pN-bl6.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "This will remove Duet and all of it's features from your computer."; ObjectID = "RTH-3M-VXk"; */
+"RTH-3M-VXk.title" = "컴퓨터에서 Duet과 Duet의 모든 기능이 삭제됩니다.";
+
+/* Class = "NSTextFieldCell"; title = "Are You Sure You Want To Uninstall Duet?"; ObjectID = "X4B-hw-IAE"; */
+"X4B-hw-IAE.title" = "정말로 Duet을 삭제하시겠어요?";
+
+/* Class = "NSButtonCell"; title = "UNINSTALL"; ObjectID = "fob-mV-dM5"; */
+"fob-mV-dM5.title" = "삭제";

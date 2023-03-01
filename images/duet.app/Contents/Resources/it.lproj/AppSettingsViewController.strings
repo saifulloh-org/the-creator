@@ -1,0 +1,41 @@
+
+/* Class = "NSButtonCell"; title = "Auto Update App"; ObjectID = "AnD-KR-Nfc"; */
+"AnD-KR-Nfc.title" = "Aggiorna automaticamente l'app";
+
+/* Class = "NSButtonCell"; title = "Check For Updates Now"; ObjectID = "F8d-yL-8wV"; */
+"F8d-yL-8wV.title" = "Controlla ora gli aggiornamenti";
+
+/* Class = "NSTextFieldCell"; title = "We recommend enabling this setting in case duet has critical updates."; ObjectID = "HX0-uf-ptV"; */
+"HX0-uf-ptV.title" = "Consigliamo di abilitare questa impostazione nel caso in cui duet abbia aggiornamenti importanti.";
+
+/* Class = "NSButtonCell"; title = "Open app at login"; ObjectID = "JvV-Sl-HLL"; */
+"JvV-Sl-HLL.title" = "Apri l'app al login";
+
+/* Class = "NSTextFieldCell"; title = "Check this box if you want your Mac to be able to connect wirelessly."; ObjectID = "NO6-cD-CgA"; */
+"NO6-cD-CgA.title" = "Spunta questa casella se desideri che il tuo Mac possa connettersi in modalità wireless.";
+
+/* Class = "NSTextFieldCell"; title = "Click below to fully uninstall the duet app from your system."; ObjectID = "S4d-e6-CUE"; */
+"S4d-e6-CUE.title" = "Clicca qui sotto per disinstallare completamente l'app duet dal sistema.";
+
+/* Class = "NSTextFieldCell"; title = "SETTINGS"; ObjectID = "SVf-zH-tO6"; */
+"SVf-zH-tO6.title" = "IMPOSTAZIONI";
+
+/* Class = "NSButtonCell"; title = "Enable Duet Air"; ObjectID = "Sfg-5N-LGs"; */
+"Sfg-5N-LGs.title" = "Abilita Duet Air";
+
+/* Class = "NSTextFieldCell"; title = "Uninstall App"; ObjectID = "e40-wA-rht"; */
+"e40-wA-rht.title" = "Disinstalla app";
+
+/* Class = "NSTextFieldCell"; title = "We recommend enabling this setting so that you can just plug in and get duet started. When idle, Duet uses fewer resources than a single tab of Safari."; ObjectID = "jle-jk-5Hw"; */
+"jle-jk-5Hw.title" = "Consigliamo di abilitare questa impostazione in modo da poter collegare duet e avviarlo. Quando inattivo, Duet utilizza meno risorse rispetto a una scheda singola di Safari.";
+
+/* Class = "NSButtonCell"; title = "Uninstall App"; ObjectID = "wFv-km-TkO"; */
+"wFv-km-TkO.title" = "Disinstalla app";
+
+/* Class = "NSButtonCell"; title = "Pause Apple Wireless Direct Link"; ObjectID = "zrR-oF-xkw"; */
+"zrR-oF-xkw.title" = "Metti in pausa Apple Wireless Direct Link";
+
+/* Class = "NSTextFieldCell"; title = "Pause AWDL (used by AirDrop, Handoff).  AWDL can cause stutters in wireless streaming."; ObjectID = "ZNB-DX-cfI"; */
+"ZNB-DX-cfI.title" = "Metti in pausa AWDL (usato da AirDrop, Handoff).  AWDL può causare interruzioni nello streaming wireless.";
+
+

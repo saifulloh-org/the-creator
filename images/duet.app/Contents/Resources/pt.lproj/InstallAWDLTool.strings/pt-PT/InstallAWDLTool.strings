@@ -1,0 +1,18 @@
+
+/* Class = "NSButtonCell"; title = "Grant Permission"; ObjectID = "0zP-Z0-QNf"; */
+"0zP-Z0-QNf.title" = "Conceder permissão";
+
+/* Class = "NSTextFieldCell"; title = "Optimize Duet Performance"; ObjectID = "9bt-Ai-428"; */
+"9bt-Ai-428.title" = "Otimizar o desempenho do Duet";
+
+/* Class = "NSTextFieldCell"; title = "Permission successfully granted. Duet can now minimize wireless interference for the best performance. You can disable this setting any time in Duet’s settings."; ObjectID = "F5T-zZ-2Lf"; */
+"F5T-zZ-2Lf.title" = "Permissão devidamente concedida. O Duet pode agora minimizar as interferências sem fios, para um desempenho ótimo. Pode desativar esta opção em qualquer momento nas definições do Duet.";
+
+/* Class = "NSTextFieldCell"; title = "We have detected wireless interference from AirDrop, Handoff and AirPlay. To improve performance, we can pause these features while Duet is enabled."; ObjectID = "J4U-0x-C4H"; */
+"J4U-0x-C4H.title" = "Detetámos interferências sem fios provocadas pelo AirDrop, Handoff e AirPlay. Para melhorar o desempenho, podemos interromper estas funcionalidades enquanto o Duet estiver ativado.";
+
+/* Class = "NSTextFieldCell"; title = "There was an issue authorizing Duet to optimize wireless performance. \nPlease try again or contact \nair@duetdisplay.com for support."; ObjectID = "dM2-Wt-jlR"; */
+"dM2-Wt-jlR.title" = "Ocorreu um problema ao autorizar o Duet a otimizar o desempenho sem fios. Tente novamente ou contacte air@duetdisplay.com para obter apoio.";
+
+// string that is used dynmically in place of "Grant Permission" button
+"CloseWindow.title" = "Fechar janela";
