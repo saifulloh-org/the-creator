@@ -91,16 +91,37 @@ li span {
   font-size: 40px;
   margin-bottom: 100px;
 }
-.revelation{
+.revelation {
   display: flex;
   justify-content: space-around;
 }
-.logo-quran{
-  width: 300px;
+.logo-quran {
+  width: 330px;
 }
-.logo-bible{
+.logo-bible {
   width: 250px;
 }
-.logo{
+.logo {
   width: 200px;
 }
+.section-two h2 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: 700;
+  color: #151414;
+}
+.section-two p {
+  font-weight: 500;
+  font-size: 25px;
+  text-align: center;
+  color: #737272;
+}
+
+/* Section Three */
+.section-three {
+  background-image: url(images/everyday.jpg);
+  height: 650px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
