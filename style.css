@@ -147,3 +147,18 @@ li span {
 .section-three-btn{
   margin-top: 24px;
 }
+
+/* Section Four */
+.section-four{
+  text-align: center;
+  background-image: url(images/green-hill\ \(2\).jpg);
+  background-repeat: no-repeat;
+
+}
+.section-four-container{
+  padding-top: 100px;
+}
+.section-four h1{
+  margin-bottom: 50px;
+  font-size: 50px;
+}
