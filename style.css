@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  font-family: "Inter", sans-serif;
   font-family: "Work Sans", sans-serif;
 }
 
@@ -122,7 +123,7 @@ li span {
   position: relative;
   margin-top: 130px;
 }
-.image{
+.image {
   background-image: url(images/everyday.jpg);
   height: 650px;
   background-repeat: no-repeat;
@@ -142,23 +143,79 @@ li span {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, rgba(221, 72, 72, 0), rgba(26, 115, 82, 0.8));
+  background: linear-gradient(
+    to left,
+    rgba(221, 72, 72, 0),
+    rgba(26, 115, 82, 0.8)
+  );
 }
-.section-three-btn{
+.section-three-btn {
   margin-top: 24px;
 }
 
 /* Section Four */
-.section-four{
+.section-four {
   text-align: center;
-  background-image: url(images/green-hill\ \(2\).jpg);
+  background-image: url(images/green-hill\\(2\).jpg);
   background-repeat: no-repeat;
-
+  padding: 0 20px;
 }
-.section-four-container{
+.section-four-container {
   padding-top: 100px;
 }
-.section-four h1{
+.section-four h1 {
   margin-bottom: 50px;
   font-size: 50px;
+}
+
+/* Footer Section */
+footer {
+  background-color: black;
+  height: 577px;
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer .container {
+  width: 1600px;
+  display: flex;
+  justify-content: space-around;
+}
+.left-side {
+  width: 500px;
+}
+.footer-heading {
+  color: white;
+}
+footer h2 {
+  color: white;
+  margin-bottom: 20px;
+}
+footer p {
+  color: wheat;
+  margin-top: 20px;
+}
+footer input {
+  width: 325px;
+  height: 64px;
+  border-radius: 5px;
+  background-color: black;
+  border: 1px solid white;
+}
+footer input::placeholder {
+  text-align: center;
+}
+footer button {
+  margin-top: 20px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  padding: 10px 20px;
+  color: #f15b22;
+}
+.social {
+  margin-top: 20px;
 }
